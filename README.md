@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 💻 Developer - Intern at Tavago Tech and wordpress dev at TorontoStarts.<br>
-🔭 I'm currently working on C#, .NET WinForms, taking VB6 files to this tech stack. While also developing personal projects with python & MERN full stack web development.<br>🌱 I’m currently learning full stack development using MERN stack.<br>💬 From time to time, I blog on coding contents at <href>aneelang.github.io/blog</href>.<br>⚡ Fun fact:  I have studied music and enjoy production work.
+🔭 I'm currently working on C#, .NET WinForms, taking VB6 files to this tech stack. While also developing personal projects with python & MERN full stack web development.<br>🌱 I’m currently learning full stack development using MERN stack.<br>💬 From time to time, I blog on coding contents at <href>aneelang.github.io/blog</href>.<br>⚡ Fun fact:  I have studied music and enjoy production work.<br>📢 P.S. My commits on github will be reducing because I'm shifting to Bitbucket for my internship related commits.
 
 
 ## 🌐 Socials:
